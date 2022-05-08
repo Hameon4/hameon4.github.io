@@ -1153,13 +1153,10 @@ input, select, textarea {
 			-webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
 			-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
 			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
-<<<<<<< HEAD
 			background-image: url("../../images/6417742.jpg");
 			opacity: 0.4;
-=======
 			background-image: url("../../images/Abstract_Technology_Background_4.gif");
 			opacity: 0.2;
->>>>>>> 8bedb2927f3a9d7e52bd94229822dcc32ac7fb08
 			background-position: center;
 			background-size: cover;
 			background-repeat: no-repeat;
