@@ -1139,7 +1139,6 @@ input, select, textarea {
 			-webkit-transition-delay: 0.75s;
 			-ms-transition-delay: 0.75s;
 			transition-delay: 0.75s;
-			background-image: linear-gradient(to top, rgba(19, 21, 25, 0.5), rgba(19, 21, 25, 0.5)), url("../../images/overlay.png");
 			background-size: auto,
  256px 256px;
 			background-position: center,
@@ -1158,7 +1157,8 @@ input, select, textarea {
 			-webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
 			-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
 			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
-			background-image: linear-gradient(rgba(0.5,0.5,0.5,0.5), rgba(0.5,0.5,0.5,0.5)),url("../../images/6417742.jpg");
+			background-image: linear-gradient(rgba(0, 255, 0, 0.5), rgba(0, 255, 0, 0.5)), url("../../images/Abstract_Technology_Background_4.gif");
+			opacity: 0.15;
 			background-position: center;
 			background-size: cover;
 			background-repeat: no-repeat;
